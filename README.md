@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Calculon9
+- 📚 I have skills in Javascript (w/jQuery), HTML, CSS (w/Bootstrap) and have developed several small web apps (https://github.com/Calculon9?tab=repositories)
 - 👀 I’m interested in web development and learning new development technologies, languages, libraries, and frameworks
-- 🌱 I’m currently learning REACT and Node.js
+- 🌱 I’m currently learning React and Node.js
 - 📫 How to reach me: smith.callumc@gmail.com
-
-<!---
-Calculon9/Calculon9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
